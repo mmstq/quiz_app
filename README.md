@@ -2,15 +2,14 @@
 
 a quiz app for internship
 
-## Getting Started
+Third party libraries
 
-This project is a starting point for a Flutter application.
+firebase_core: ^2.8.0
+firebase_auth: ^4.3.0
+google_sign_in: any
+cloud_firestore:
+font_awesome_flutter:
+shared_preferences:
+provider: ^6.0.5
+google_fonts: ^4.0.3
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

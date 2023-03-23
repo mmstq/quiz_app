@@ -317,7 +317,7 @@ class _QuizScreenState extends State<QuizScreen>
                               height: 50,
                               width: 320,
                               child: Text(
-                                'Next',
+                                'Save to cloud',
                                 style: theme.textTheme.headlineSmall!.copyWith(
                                     fontSize: 20,
                                     fontWeight: FontWeight.w700,
