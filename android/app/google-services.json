@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "932007019498",
+    "project_id": "taskapp-f5c5d",
+    "storage_bucket": "taskapp-f5c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932007019498:android:a52a1aca64addf1adce893",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932007019498-nar1i3bs96f5ticso0vam3qsi2p07ba1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz_app",
+            "certificate_hash": "6e841409659bebc7bb971d6b9f37b13dbe1bf8c1"
+          }
+        },
+        {
+          "client_id": "932007019498-dj9hej93dobbg33gjvu76ucr8c8h6m36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7rkSFfIrwYs63Mh8sLVw6sWislASdl3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932007019498-dj9hej93dobbg33gjvu76ucr8c8h6m36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932007019498-bt7kb4ooq5nsmongiidu15hviua5hpvf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932007019498:android:b100e76d54a566fcdce893",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932007019498-dj9hej93dobbg33gjvu76ucr8c8h6m36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7rkSFfIrwYs63Mh8sLVw6sWislASdl3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932007019498-dj9hej93dobbg33gjvu76ucr8c8h6m36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932007019498-bt7kb4ooq5nsmongiidu15hviua5hpvf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
