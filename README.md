@@ -2,14 +2,27 @@
 
 a quiz app for internship
 
-Third party libraries
+## Third party libraries
 
-firebase_core: ^2.8.0
-firebase_auth: ^4.3.0
-google_sign_in: any
-cloud_firestore:
-font_awesome_flutter:
-shared_preferences:
-provider: ^6.0.5
-google_fonts: ^4.0.3
+firebase_core
+
+firebase_auth
+
+google_sign_in
+
+cloud_firestore
+
+font_awesome_flutter
+
+shared_preferences
+
+provider
+
+google_fonts
+
+
+## Video
+https://user-images.githubusercontent.com/39179965/227267699-e3b9daa5-18e4-457b-b205-c07a5f6931a3.mp4
+
+
 
